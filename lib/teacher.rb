@@ -7,6 +7,3 @@ class Teacher < User
   end
 end
 KNOWLEDGE.sample
-    
-    
-
