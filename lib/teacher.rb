@@ -4,6 +4,8 @@ class Teacher < User
 
   def teach(knowledge)
     @knowledge = KNOWLEDGE
-    knowledge.sample
   end
+
 end
+
+KNOWLEDGE.sample
