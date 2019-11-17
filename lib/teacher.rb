@@ -5,3 +5,4 @@ class Teacher < User
     @knowledge = KNOWLEDGE
   end
 end
+
