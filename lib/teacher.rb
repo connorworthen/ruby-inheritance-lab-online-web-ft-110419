@@ -8,4 +8,4 @@ class Teacher < User
 
 end
 
-knowledge.sample
+@knowledge.sample
