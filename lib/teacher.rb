@@ -7,4 +7,3 @@ class Teacher < User
       return 
   end
 end
-
